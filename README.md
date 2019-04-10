@@ -1,4 +1,4 @@
-# ARP-poisoning-packet-sniffer
+# ARP Poisoning Packet Sniffer
 Aynı ağda bulunan hedef bilgisayarlar üzerinde ARP zehirlemesi(poisoning) yapmak ve ağ trafiğini izlemenizi sağlamak için yazılmış iki scripttir.
 
 
