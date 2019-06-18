@@ -13,7 +13,7 @@
 
 * Linux için kurulum
 ```
-sudo pip install termcolor
+sudo pip install -r requirements.txt
 ```
 
 
