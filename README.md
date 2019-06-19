@@ -9,7 +9,7 @@
 * **arp_spoofy.py** script'i hedef bilgisayar üzerinde ARP zehirlemesi yaparken **paket_sniffer.py** script'i de aynı anda http isteklerini dinlemeye alarak olası kullanıcı adı / parola girişlerini görüntüler.
 
 
-#### Kurulacak modül
+#### Kurulacak modüller
 
 * Linux için kurulum
 ```
