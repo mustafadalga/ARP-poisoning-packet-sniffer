@@ -9,7 +9,6 @@ import os
 
 
 class ArpSpoof():
-
 	def __init__(self):
 		self.gonderilen_paket_sayisi=0
 		self.about()
@@ -65,7 +64,7 @@ class ArpSpoof():
 
 	def script_desc(self):
 		self.program = "arp_spoof"
-		self.kullanim ="""Kullanim: python arp_spoof_yedek.py --hedef HEDEFIP --gateway GATEWAY\nOrnek Kullanim: python arp_spoof_yedek.py --hedef 10.0.2.15 --gateway 10.0.2.1"""
+		self.kullanim ="""Kullanim: python arp_spoof.py --hedef HEDEFIP --gateway GATEWAY\nOrnek Kullanim: python arp_spoof.py --hedef 10.0.2.15 --gateway 10.0.2.1"""
 		self.description = "Aynı ağda bulunan hedef bilgisayar üzerinde ARP zehirlemesi yapmak için kullanılan bir scripttir."
 
 
