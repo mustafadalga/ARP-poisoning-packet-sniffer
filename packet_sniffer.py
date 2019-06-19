@@ -7,7 +7,7 @@ import sys
 try:
 	import scapy.all as scapy
 except KeyboardInterrupt:
-	print(colored("\n[-] CTRL+C basıldı.ARP tablosu sıfırlanıyor... Lütfen bekleyiniz...", "red"))
+	print(colored("\n[-] CTRL+C basıldı... Lütfen bekleyiniz...", "red"))
 	print(colored("[-] Uygulamadan çıkış yapıldı!", "red"))
 	sys.exit()
 import scapy_http.http as http
